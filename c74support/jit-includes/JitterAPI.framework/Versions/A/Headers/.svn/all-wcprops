@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers
+END
+jit.gl.cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.gl.cache.h
+END
+JitterAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/JitterAPI.h
+END
+jit.bin.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.bin.h
+END
+jit.gl.chunk.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.gl.chunk.h
+END
+jit.gl.drawinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.gl.drawinfo.h
+END
+jit.wglext.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.wglext.h
+END
+jit.op.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.op.h
+END
+jit.functor.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.functor.h
+END
+jit.glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.glext.h
+END
+jit.platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.platform.h
+END
+jit.qt.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.qt.h
+END
+jit.max.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.max.h
+END
+jit.gl.context.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.gl.context.h
+END
+jit.altivec.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.altivec.h
+END
+jit.vecmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.vecmath.h
+END
+jit.gl.ob3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.gl.ob3d.h
+END
+jit.symbols.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.symbols.h
+END
+jit.math.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.math.h
+END
+jit.linklist.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.linklist.h
+END
+jit.critical.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.critical.h
+END
+jit.parallel.utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.parallel.utils.h
+END
+jit.gworld.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.gworld.h
+END
+jit.byteorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.byteorder.h
+END
+jit.cubicspline.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.cubicspline.h
+END
+jit.fixmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.fixmath.h
+END
+jit.window.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.window.h
+END
+jit.half.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.half.h
+END
+jit.gl.support.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.gl.support.h
+END
+jit.file.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.file.h
+END
+max.jit.mop.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/max.jit.mop.h
+END
+jit.gl.procs.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.gl.procs.h
+END
+jit.common.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.common.h
+END
+jit.cpost.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.cpost.h
+END
+jit.error.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.error.h
+END
+jit.gl.pixelformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.gl.pixelformat.h
+END
+jit.mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.mac.h
+END
+jit.qt.codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.qt.codec.h
+END
+jit.gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.gl.h
+END
+jit.agl.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/JitterAPI.framework/Versions/A/Headers/jit.agl.h
+END

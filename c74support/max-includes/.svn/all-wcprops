@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/avjit/!svn/ver/1/c74support/max-includes
+END
+ext_sysfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_sysfile.h
+END
+ext_proto_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_proto_win.h
+END
+ext_sndfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_sndfile.h
+END
+ext_qtimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_qtimage.h
+END
+ext_obstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_obstring.h
+END
+ext_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_common.h
+END
+ext_fun.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_fun.h
+END
+ext_sysparallel.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_sysparallel.h
+END
+jpatcher_syms.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/jpatcher_syms.h
+END
+ext_path.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_path.h
+END
+ext_symobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_symobject.h
+END
+ext_byteorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_byteorder.h
+END
+ext_preferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_preferences.h
+END
+ext_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_proto.h
+END
+ext_track.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_track.h
+END
+ext_dictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_dictionary.h
+END
+ext_mess.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_mess.h
+END
+ext_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_support.h
+END
+ext_drag.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_drag.h
+END
+ext_user.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_user.h
+END
+MaxAPI.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.lib
+END
+ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext.h
+END
+macho-prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/macho-prefix.pch
+END
+ext_globalsymbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_globalsymbol.h
+END
+ext_charset.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_charset.h
+END
+jgraphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/jgraphics.h
+END
+ext_systime.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_systime.h
+END
+ext_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_time.h
+END
+jdataview.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/jdataview.h
+END
+ext_wind.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_wind.h
+END
+ext_menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_menu.h
+END
+ext_qtstubs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_qtstubs.h
+END
+ext_systhread.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_systhread.h
+END
+ext_sysshmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_sysshmem.h
+END
+jpatcher_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/jpatcher_api.h
+END
+ext_quickmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_quickmap.h
+END
+ext_hashtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_hashtab.h
+END
+ext_maxtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_maxtypes.h
+END
+ext_atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_atomic.h
+END
+ext_sysprocess.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_sysprocess.h
+END
+ext_expr.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_expr.h
+END
+ext_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_event.h
+END
+ext_anim.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_anim.h
+END
+commonsyms.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/commonsyms.h
+END
+ext_default.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_default.h
+END
+macho-gl-prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/macho-gl-prefix.pch
+END
+ext_obex.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_obex.h
+END
+ext_oms.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_oms.h
+END
+ext_colors.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_colors.h
+END
+ext_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_types.h
+END
+ext_timeline.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_timeline.h
+END
+maxcrt_p.lib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/maxcrt_p.lib
+END
+ext_sysmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_sysmem.h
+END
+ext_xmltree.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_xmltree.h
+END
+ext_parameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_parameter.h
+END
+ext_sysmidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_sysmidi.h
+END
+ext_midi.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_midi.h
+END
+ext_syssem.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_syssem.h
+END
+indexmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/indexmap.h
+END
+ext_linklist.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_linklist.h
+END
+ext_strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_strings.h
+END
+ext_itm.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_itm.h
+END
+ext_critical.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_critical.h
+END
+ext_obex_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_obex_util.h
+END
+ext_prefix.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_prefix.h
+END
+maxcrt.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/maxcrt.lib
+END
+ext_atomarray.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_atomarray.h
+END
+jpatcher_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/jpatcher_utils.h
+END
+ext_numc.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_numc.h
+END
+ext_database.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/ext_database.h
+END
+edit.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/edit.h
+END

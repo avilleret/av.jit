@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes
+END
+jit.gl.cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.gl.cache.h
+END
+jit.bin.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.bin.h
+END
+jit.gl.chunk.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.gl.chunk.h
+END
+jit.gl.drawinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.gl.drawinfo.h
+END
+jit.wglext.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.wglext.h
+END
+jit.op.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.op.h
+END
+jit.functor.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.functor.h
+END
+jit.glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.glext.h
+END
+jit.platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.platform.h
+END
+jit.qt.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.qt.h
+END
+jit.max.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.max.h
+END
+jit.gl.context.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.gl.context.h
+END
+jit.altivec.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.altivec.h
+END
+jit.vecmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.vecmath.h
+END
+jit.gl.ob3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.gl.ob3d.h
+END
+jit.symbols.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.symbols.h
+END
+jit.math.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.math.h
+END
+jit.linklist.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.linklist.h
+END
+jit.critical.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.critical.h
+END
+jit.parallel.utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.parallel.utils.h
+END
+jit.gworld.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.gworld.h
+END
+jit.byteorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.byteorder.h
+END
+jit.cubicspline.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.cubicspline.h
+END
+jit.fixmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.fixmath.h
+END
+jit.window.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.window.h
+END
+jitlib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jitlib.lib
+END
+jit.half.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.half.h
+END
+jit.gl.support.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.gl.support.h
+END
+jit.file.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.file.h
+END
+max.jit.mop.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/max.jit.mop.h
+END
+jit.gl.procs.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.gl.procs.h
+END
+jit.common.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.common.h
+END
+jit.cpost.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.cpost.h
+END
+jit.error.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.error.h
+END
+jit.gl.pixelformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.gl.pixelformat.h
+END
+jit.namespace.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.namespace.h
+END
+jit.mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.mac.h
+END
+jit.qt.codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.qt.codec.h
+END
+jit.gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.gl.h
+END
+jit.agl.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/avjit/!svn/ver/1/c74support/jit-includes/jit.agl.h
+END

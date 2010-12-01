@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/avjit/!svn/ver/1/framework/dc1394.framework/Versions/A/Headers/vendor
+END
+avt.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/avjit/!svn/ver/1/framework/dc1394.framework/Versions/A/Headers/vendor/avt.h
+END
+pixelink.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/avjit/!svn/ver/1/framework/dc1394.framework/Versions/A/Headers/vendor/pixelink.h
+END
+basler_sff.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/avjit/!svn/ver/1/framework/dc1394.framework/Versions/A/Headers/vendor/basler_sff.h
+END
+basler.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/avjit/!svn/ver/1/framework/dc1394.framework/Versions/A/Headers/vendor/basler.h
+END

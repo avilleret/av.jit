@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers
+END
+ext_sysfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_sysfile.h
+END
+ext_sndfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_sndfile.h
+END
+ext_qtimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_qtimage.h
+END
+ext_obstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_obstring.h
+END
+ext_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_common.h
+END
+ext_fun.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_fun.h
+END
+ext_byteorder.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_byteorder.c
+END
+jpatcher_syms.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/jpatcher_syms.h
+END
+ext_sysparallel.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_sysparallel.h
+END
+ext_path.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_path.h
+END
+ext_symobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_symobject.h
+END
+ext_byteorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_byteorder.h
+END
+ext_preferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_preferences.h
+END
+ext_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_proto.h
+END
+ext_track.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_track.h
+END
+ext_dictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_dictionary.h
+END
+ext_mess.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_mess.h
+END
+ext_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_support.h
+END
+ext_drag.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_drag.h
+END
+ext_user.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_user.h
+END
+ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext.h
+END
+macho-prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/macho-prefix.pch
+END
+ext_globalsymbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_globalsymbol.h
+END
+ext_charset.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_charset.h
+END
+jgraphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/jgraphics.h
+END
+ext_systime.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_systime.h
+END
+jdataview.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/jdataview.h
+END
+ext_wind.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_wind.h
+END
+ext_menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_menu.h
+END
+ext_qtstubs.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_qtstubs.h
+END
+ext_systhread.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_systhread.h
+END
+jpatcher_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/jpatcher_api.h
+END
+ext_hashtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_hashtab.h
+END
+ext_maxtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_maxtypes.h
+END
+ext_expr.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_expr.h
+END
+commonsyms.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/commonsyms.c
+END
+ext_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_event.h
+END
+ext_default.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_default.h
+END
+ext_anim.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_anim.h
+END
+commonsyms.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/commonsyms.h
+END
+macho-gl-prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/macho-gl-prefix.pch
+END
+ext_obex.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_obex.h
+END
+ext_oms.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_oms.h
+END
+ext_colors.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_colors.h
+END
+ext_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_types.h
+END
+ext_timeline.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_timeline.h
+END
+ext_sysmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_sysmem.h
+END
+ext_xmltree.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_xmltree.h
+END
+ext_sysmidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_sysmidi.h
+END
+ext_midi.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_midi.h
+END
+indexmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/indexmap.h
+END
+ext_strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_strings.h
+END
+ext_itm.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_itm.h
+END
+ext_linklist.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_linklist.h
+END
+ext_critical.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_critical.h
+END
+ext_obex_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_obex_util.h
+END
+ext_prefix.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_prefix.h
+END
+ext_database.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_database.c
+END
+ext_atomarray.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_atomarray.h
+END
+jpatcher_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/jpatcher_utils.h
+END
+ext_numc.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_numc.h
+END
+mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/mouse.c
+END
+ext_database.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/ext_database.h
+END
+edit.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/edit.h
+END
+basic_c_strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxAPI.framework/Versions/A/Headers/basic_c_strings.c
+END

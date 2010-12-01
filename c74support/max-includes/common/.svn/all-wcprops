@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/common
+END
+ext_byteorder.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/common/ext_byteorder.c
+END
+commonsyms_max4.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/common/commonsyms_max4.h
+END
+commonsyms.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/common/commonsyms.c
+END
+ext_database.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/common/ext_database.c
+END
+verinfo_win.rc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/common/verinfo_win.rc
+END
+mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/common/mouse.c
+END
+jpatcher_syms.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/common/jpatcher_syms.c
+END
+basic_c_strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/common/basic_c_strings.c
+END
+commonsyms_max4.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/common/commonsyms_max4.c
+END
+dllmain_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/common/dllmain_win.c
+END

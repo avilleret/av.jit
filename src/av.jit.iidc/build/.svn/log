@@ -1,0 +1,10 @@
+<modify-entry
+   committed-rev="2"
+   committed-date="2010-11-26T10:44:41.118158Z"
+   name=""
+   last-author="avilleret"/>
+<delete-changelist
+   name=""/>
+<committed
+   name=""
+   revision="2"/>

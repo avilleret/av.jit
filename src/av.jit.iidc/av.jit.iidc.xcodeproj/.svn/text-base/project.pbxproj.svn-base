@@ -1,0 +1,298 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 44;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		22301F4310D7BC4000C1989F /* jit.iidc.c in Sources */ = {isa = PBXBuildFile; fileRef = 22301F4110D7BC4000C1989F /* jit.iidc.c */; };
+		22301F4410D7BC4000C1989F /* max.jit.iidc.c in Sources */ = {isa = PBXBuildFile; fileRef = 22301F4210D7BC4000C1989F /* max.jit.iidc.c */; };
+		43602F59129EF224002B9B68 /* maxmspsdk-avjitiidc.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 43602F58129EF224002B9B68 /* maxmspsdk-avjitiidc.xcconfig */; };
+		B81901D01294583C00A59F3D /* JitterAPI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B81901CF1294583C00A59F3D /* JitterAPI.framework */; };
+		B81901D41294584B00A59F3D /* MaxAPI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B81901D31294584B00A59F3D /* MaxAPI.framework */; };
+		B8A19770129AD14500E94187 /* dc1394.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B8A1976F129AD14500E94187 /* dc1394.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		22301F4110D7BC4000C1989F /* jit.iidc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = jit.iidc.c; sourceTree = "<group>"; };
+		22301F4210D7BC4000C1989F /* max.jit.iidc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = max.jit.iidc.c; sourceTree = "<group>"; };
+		2FBBEAE508F335360078DB84 /* av.jit.iidc.mxo */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = av.jit.iidc.mxo; sourceTree = BUILT_PRODUCTS_DIR; };
+		43602F58129EF224002B9B68 /* maxmspsdk-avjitiidc.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = "maxmspsdk-avjitiidc.xcconfig"; path = "SDK/avjit/scr/av.jit.iidc/maxmspsdk-avjitiidc.xcconfig"; sourceTree = DEVELOPER_DIR; };
+		B81901CF1294583C00A59F3D /* JitterAPI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JitterAPI.framework; path = "SDK/MaxSDK-5.1.1/c74support/jit-includes/JitterAPI.framework"; sourceTree = DEVELOPER_DIR; };
+		B81901D31294584B00A59F3D /* MaxAPI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MaxAPI.framework; path = "SDK/MaxSDK-5.1.1/c74support/max-includes/MaxAPI.framework"; sourceTree = DEVELOPER_DIR; };
+		B8A1976F129AD14500E94187 /* dc1394.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = dc1394.framework; path = "SDK/MaxSDK-5.1.1/examples/av.jit.iidc/dc1394.framework"; sourceTree = DEVELOPER_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2FBBEADC08F335360078DB84 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B81901D01294583C00A59F3D /* JitterAPI.framework in Frameworks */,
+				B81901D41294584B00A59F3D /* MaxAPI.framework in Frameworks */,
+				B8A19770129AD14500E94187 /* dc1394.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		089C166AFE841209C02AAC07 /* iterator */ = {
+			isa = PBXGroup;
+			children = (
+				43602F58129EF224002B9B68 /* maxmspsdk-avjitiidc.xcconfig */,
+				43D3CFE7125A170300130E2F /* Frameworks & Libraries */,
+				08FB77ADFE841716C02AAC07 /* Source */,
+				19C28FB4FE9D528D11CA2CBB /* Products */,
+			);
+			name = iterator;
+			sourceTree = "<group>";
+		};
+		08FB77ADFE841716C02AAC07 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				22301F4210D7BC4000C1989F /* max.jit.iidc.c */,
+				22301F4110D7BC4000C1989F /* jit.iidc.c */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		19C28FB4FE9D528D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2FBBEAE508F335360078DB84 /* av.jit.iidc.mxo */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		43D3CFE7125A170300130E2F /* Frameworks & Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				B8A1976F129AD14500E94187 /* dc1394.framework */,
+				B81901D31294584B00A59F3D /* MaxAPI.framework */,
+				B81901CF1294583C00A59F3D /* JitterAPI.framework */,
+			);
+			name = "Frameworks & Libraries";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		2FBBEAD708F335360078DB84 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		2FBBEAD608F335360078DB84 /* max-external */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2FBBEAE008F335360078DB84 /* Build configuration list for PBXNativeTarget "max-external" */;
+			buildPhases = (
+				2FBBEAD708F335360078DB84 /* Headers */,
+				2FBBEAD808F335360078DB84 /* Resources */,
+				2FBBEADA08F335360078DB84 /* Sources */,
+				2FBBEADC08F335360078DB84 /* Frameworks */,
+				2FBBEADF08F335360078DB84 /* Rez */,
+				43854DE9124F8EA000EF3DAF /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "max-external";
+			productName = iterator;
+			productReference = 2FBBEAE508F335360078DB84 /* av.jit.iidc.mxo */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		089C1669FE841209C02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 2FBBEACF08F335010078DB84 /* Build configuration list for PBXProject "av.jit.iidc" */;
+			compatibilityVersion = "Xcode 3.0";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 089C166AFE841209C02AAC07 /* iterator */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2FBBEAD608F335360078DB84 /* max-external */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2FBBEAD808F335360078DB84 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				43602F59129EF224002B9B68 /* maxmspsdk-avjitiidc.xcconfig in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXRezBuildPhase section */
+		2FBBEADF08F335360078DB84 /* Rez */ = {
+			isa = PBXRezBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXRezBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		43854DE9124F8EA000EF3DAF /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/bash;
+			shellScript = "";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2FBBEADA08F335360078DB84 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				22301F4310D7BC4000C1989F /* jit.iidc.c in Sources */,
+				22301F4410D7BC4000C1989F /* max.jit.iidc.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		2FBBEAD008F335010078DB84 /* Development */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 43602F58129EF224002B9B68 /* maxmspsdk-avjitiidc.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(C74SUPPORT)/max-includes\"",
+					"\"$(C74SUPPORT)/msp-includes\"",
+					"\"$(C74SUPPORT)/jit-includes\"",
+				);
+				HEADER_SEARCH_PATHS = (
+					/Developer/Headers/FlatCarbon,
+					"\"$(C74SUPPORT)/max-includes\"",
+					"\"$(C74SUPPORT)/msp-includes\"",
+					"\"$(C74SUPPORT)/jit-includes\"",
+				);
+				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
+				OTHER_LDFLAGS = "";
+			};
+			name = Development;
+		};
+		2FBBEAE108F335360078DB84 /* Development */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../c74support/jit-includes\"",
+					"\"$(DEVELOPER_DIR)/SDK/MaxSDK-5.1.1/examples/av.jit.iidc\"",
+					"\"$(DEVELOPER_DIR)/SDK/MaxSDK-5.1.1/c74support/max-includes\"",
+				);
+				GCC_OPTIMIZATION_LEVEL = 0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(CONTENTS_FOLDER_PATH)/Resources",
+					/opt/local/lib,
+					"\"$(DEVELOPER_DIR)/SDK/MaxSDK-5.1.1/examples/av.jit.iidc\"",
+				);
+			};
+			name = Development;
+		};
+		4374C8091173850300B36EF5 /* Deployment */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 43602F58129EF224002B9B68 /* maxmspsdk-avjitiidc.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(C74SUPPORT)/max-includes\"",
+					"\"$(C74SUPPORT)/msp-includes\"",
+					"\"$(C74SUPPORT)/jit-includes\"",
+				);
+				GCC_ENABLE_SYMBOL_SEPARATION = YES;
+				HEADER_SEARCH_PATHS = (
+					/Developer/Headers/FlatCarbon,
+					"\"$(C74SUPPORT)/max-includes\"",
+					"\"$(C74SUPPORT)/msp-includes\"",
+					"\"$(C74SUPPORT)/jit-includes\"",
+				);
+				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
+				OTHER_LDFLAGS = "";
+				PREBINDING = YES;
+			};
+			name = Deployment;
+		};
+		4374C80A1173850300B36EF5 /* Deployment */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					ppc,
+					i386,
+				);
+				COPY_PHASE_STRIP = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../c74support/jit-includes\"",
+					"\"$(DEVELOPER_DIR)/SDK/MaxSDK-5.1.1/examples/av.jit.iidc\"",
+					"\"$(DEVELOPER_DIR)/SDK/MaxSDK-5.1.1/c74support/max-includes\"",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(CONTENTS_FOLDER_PATH)/Resources",
+					/opt/local/lib,
+					"\"$(DEVELOPER_DIR)/SDK/MaxSDK-5.1.1/examples/av.jit.iidc\"",
+				);
+				SKIP_INSTALL = NO;
+			};
+			name = Deployment;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2FBBEACF08F335010078DB84 /* Build configuration list for PBXProject "av.jit.iidc" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2FBBEAD008F335010078DB84 /* Development */,
+				4374C8091173850300B36EF5 /* Deployment */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Deployment;
+		};
+		2FBBEAE008F335360078DB84 /* Build configuration list for PBXNativeTarget "max-external" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2FBBEAE108F335360078DB84 /* Development */,
+				4374C80A1173850300B36EF5 /* Deployment */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Deployment;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 089C1669FE841209C02AAC07 /* Project object */;
+}

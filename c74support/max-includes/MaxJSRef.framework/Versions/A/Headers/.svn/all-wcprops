@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers
+END
+jsnum.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsnum.h
+END
+jsprvtd.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsprvtd.h
+END
+jscntxt.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jscntxt.h
+END
+jsxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsxml.h
+END
+jstypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jstypes.h
+END
+jsapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsapi.h
+END
+jsscope.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsscope.h
+END
+jsobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsobj.h
+END
+jsdate.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsdate.h
+END
+jsarray.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsarray.h
+END
+jsclist.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsclist.h
+END
+jspubtd.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jspubtd.h
+END
+jsfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsfile.h
+END
+jscompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jscompat.h
+END
+jsscan.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsscan.h
+END
+jsarena.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsarena.h
+END
+jsautocfg-mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsautocfg-mac.h
+END
+jsprf.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsprf.h
+END
+jsgc.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsgc.h
+END
+jsexn.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsexn.h
+END
+jsregexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsregexp.h
+END
+jsemit.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsemit.h
+END
+jslong.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jslong.h
+END
+jsatom.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsatom.h
+END
+jsinterp.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsinterp.h
+END
+jsscript.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsscript.h
+END
+jsconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsconfig.h
+END
+jscpucfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jscpucfg.h
+END
+jsstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsstr.h
+END
+jsopcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsopcode.h
+END
+jsstddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsstddef.h
+END
+jsosdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsosdep.h
+END
+jsparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsparse.h
+END
+jsutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsutil.h
+END
+jsbit.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsbit.h
+END
+jslibmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jslibmath.h
+END
+jshash.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jshash.h
+END
+jsotypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsotypes.h
+END
+jsdbgapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsdbgapi.h
+END
+jsdtoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsdtoa.h
+END
+jsdhash.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsdhash.h
+END
+jsxdrapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsxdrapi.h
+END
+jslock.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jslock.h
+END
+jsfun.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsfun.h
+END
+jsautocfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsautocfg.h
+END
+jsmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsmath.h
+END
+prmjtime.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/prmjtime.h
+END
+jsbool.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/avjit/!svn/ver/1/c74support/max-includes/MaxJSRef.framework/Versions/A/Headers/jsbool.h
+END

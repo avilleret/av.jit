@@ -1,0 +1,338 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Deployment;
+		activeTarget = 2FBBEAD608F335360078DB84 /* max-external */;
+		addToTargets = (
+			2FBBEAD608F335360078DB84 /* max-external */,
+		);
+		breakpoints = (
+			43CF25E9123A965E00513C83 /* art.jit.simple.c:263 */,
+			43CF25FC123A99C000513C83 /* filein.c:29 */,
+			43CF260E123A9D2400513C83 /* jit.textfile.c:61 */,
+		);
+		codeSenseManager = 4326E11011172B4B00EF74F0 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					314,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					530,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					274,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 312412461;
+			PBXWorkspaceStateSaveDate = 312412461;
+		};
+		perUserProjectItems = {
+			43274CA71240F74C005623E3 /* PBXTextBookmark */ = 43274CA71240F74C005623E3 /* PBXTextBookmark */;
+			432CEA9F123EB7E20022B8BF /* PBXTextBookmark */ = 432CEA9F123EB7E20022B8BF /* PBXTextBookmark */;
+			432CEAD7123EE2A80022B8BF /* PBXTextBookmark */ = 432CEAD7123EE2A80022B8BF /* PBXTextBookmark */;
+			43603226129F0929002B9B68 /* PBXTextBookmark */ = 43603226129F0929002B9B68 /* PBXTextBookmark */;
+			4360326C129F0AAE002B9B68 /* PBXTextBookmark */ = 4360326C129F0AAE002B9B68 /* PBXTextBookmark */;
+			4365EE0C124EAF1800901756 /* PBXTextBookmark */ = 4365EE0C124EAF1800901756 /* PBXTextBookmark */;
+			43CDC7561238554800AC833A /* PBXTextBookmark */ = 43CDC7561238554800AC833A /* PBXTextBookmark */;
+			43CF2643123AC38700513C83 /* PBXTextBookmark */ = 43CF2643123AC38700513C83 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4326E10F11172B4B00EF74F0 /* Source Control */;
+		userBookmarkGroup = 43CF25D8123A23C100513C83 /* PBXBookmarkGroup */;
+		userBuildSettings = {
+		};
+	};
+	2FBBEAD608F335360078DB84 /* max-external */ = {
+		activeExec = 0;
+	};
+	4326E10F11172B4B00EF74F0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4326E11011172B4B00EF74F0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	43274C9D1240F73D005623E3 /* ar.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ar.h;
+		path = /Developer/SDK/ARToolKit/include/AR/ar.h;
+		sourceTree = "<absolute>";
+	};
+	43274CA71240F74C005623E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 43274C9D1240F73D005623E3 /* ar.h */;
+		name = "ar.h: 151";
+		rLen = 0;
+		rLoc = 5759;
+		rType = 0;
+		vrLen = 1516;
+		vrLoc = 4708;
+	};
+	432CEA1C123E93290022B8BF /* ext_sysfile.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ext_sysfile.h;
+		path = "/Developer/SDK/MaxSDK-5.1.1/c74support/max-includes/ext_sysfile.h";
+		sourceTree = "<absolute>";
+	};
+	432CEA9F123EB7E20022B8BF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 43CF2645123AC38700513C83 /* ext_path.h */;
+		name = "ext_path.h: 509";
+		rLen = 79;
+		rLoc = 17549;
+		rType = 0;
+		vrLen = 1194;
+		vrLoc = 16956;
+	};
+	432CEAD7123EE2A80022B8BF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 432CEA1C123E93290022B8BF /* ext_sysfile.h */;
+		name = "ext_sysfile.h: 15";
+		rLen = 28;
+		rLoc = 484;
+		rType = 0;
+		vrLen = 1069;
+		vrLoc = 0;
+	};
+	4334C20512370EFB00845294 /* max.art.jit.simple.c */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.c;
+		name = max.art.jit.simple.c;
+		path = "/Developer/SDK/MaxSDK-5.1.1/examples/art.jit.simple/max.art.jit.simple.c";
+		sourceTree = "<absolute>";
+	};
+	4360302D129F00D4002B9B68 /* avjit.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 650}}";
+			sepNavSelRange = "{535, 0}";
+			sepNavVisRange = "{365, 820}";
+		};
+	};
+	4360303C129F0157002B9B68 /* art.jit.simple.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 5486}}";
+			sepNavSelRange = "{237, 0}";
+			sepNavVisRange = "{0, 683}";
+		};
+	};
+	43603210129F0858002B9B68 /* avjit-target.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1391, 455}}";
+			sepNavSelRange = "{303, 0}";
+			sepNavVisRange = "{0, 303}";
+		};
+	};
+	43603226129F0929002B9B68 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4360303C129F0157002B9B68 /* art.jit.simple.c */;
+		name = "art.jit.simple.c: 14";
+		rLen = 0;
+		rLoc = 237;
+		rType = 0;
+		vrLen = 437;
+		vrLoc = 85;
+	};
+	4360326C129F0AAE002B9B68 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4360303C129F0157002B9B68 /* art.jit.simple.c */;
+		name = "art.jit.simple.c: 14";
+		rLen = 0;
+		rLoc = 237;
+		rType = 0;
+		vrLen = 683;
+		vrLoc = 0;
+	};
+	4365EE0C124EAF1800901756 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 43DD9A051246D8CA00F68905 /* ext_mess.h */;
+		name = "ext_mess.h: 238";
+		rLen = 72;
+		rLoc = 8123;
+		rType = 0;
+		vrLen = 954;
+		vrLoc = 7899;
+	};
+	438D53C612381AC60038F8FC /* jit.symbols.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = jit.symbols.h;
+		path = "/Developer/SDK/MaxSDK-5.1.1/c74support/jit-includes/jit.symbols.h";
+		sourceTree = "<absolute>";
+	};
+	43CDC7561238554800AC833A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 438D53C612381AC60038F8FC /* jit.symbols.h */;
+		name = "jit.symbols.h: 108";
+		rLen = 107;
+		rLoc = 10425;
+		rType = 0;
+		vrLen = 1498;
+		vrLoc = 9676;
+	};
+	43CF25D8123A23C100513C83 /* PBXBookmarkGroup */ = {
+		isa = PBXBookmarkGroup;
+		children = (
+			43CF263C123AC17C00513C83 /* PBXTextBookmark */,
+		);
+		name = Root;
+	};
+	43CF25E9123A965E00513C83 /* art.jit.simple.c:263 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4360303C129F0157002B9B68 /* art.jit.simple.c */;
+		functionName = "art_jit_simple_read()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 263;
+		modificationTime = 305829470.410904;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	43CF25FC123A99C000513C83 /* filein.c:29 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 43CF25FD123A99C000513C83 /* filein.c */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 29;
+		modificationTime = 305830336.4817889;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	43CF25FD123A99C000513C83 /* filein.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = filein.c;
+		path = "/Developer/SDK/MaxSDK-5.1.1/examples/filein/filein.c";
+		sourceTree = "<absolute>";
+	};
+	43CF2607123A9AC500513C83 /* ext_sysmem.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ext_sysmem.h;
+		path = "/Developer/SDK/MaxSDK-5.1.1/c74support/max-includes/ext_sysmem.h";
+		sourceTree = "<absolute>";
+	};
+	43CF260E123A9D2400513C83 /* jit.textfile.c:61 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 43CF260F123A9D2400513C83 /* jit.textfile.c */;
+		functionName = "jit_textfile_init()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 61;
+		modificationTime = 305831204.4346681;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	43CF260F123A9D2400513C83 /* jit.textfile.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = jit.textfile.c;
+		path = "/Developer/SDK/MaxSDK-5.1.1/examples/jit.textfile/jit.textfile.c";
+		sourceTree = "<absolute>";
+	};
+	43CF263C123AC17C00513C83 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Passing argument 2 of 'setup' from incompatible pointer type";
+		fRef = 4334C20512370EFB00845294 /* max.art.jit.simple.c */;
+		rLen = 1;
+		rLoc = 31;
+		rType = 1;
+	};
+	43CF2643123AC38700513C83 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 43CF2607123A9AC500513C83 /* ext_sysmem.h */;
+		name = "ext_sysmem.h: 159";
+		rLen = 59;
+		rLoc = 4400;
+		rType = 0;
+		vrLen = 472;
+		vrLoc = 4248;
+	};
+	43CF2645123AC38700513C83 /* ext_path.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ext_path.h;
+		path = "/Developer/SDK/MaxSDK-5.1.1/c74support/max-includes/ext_path.h";
+		sourceTree = "<absolute>";
+	};
+	43DD9A051246D8CA00F68905 /* ext_mess.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ext_mess.h;
+		path = "/Developer/SDK/MaxSDK-5.1.1/c74support/max-includes/ext_mess.h";
+		sourceTree = "<absolute>";
+	};
+}

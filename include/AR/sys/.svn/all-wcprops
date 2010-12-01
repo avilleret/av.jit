@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/avjit/!svn/ver/1/include/AR/sys
+END
+videoSGI.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/avjit/!svn/ver/1/include/AR/sys/videoSGI.h
+END
+videoLinuxV4L.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/avjit/!svn/ver/1/include/AR/sys/videoLinuxV4L.h
+END
+videoGStreamer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/avjit/!svn/ver/1/include/AR/sys/videoGStreamer.h
+END
+videoLinuxDV.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/avjit/!svn/ver/1/include/AR/sys/videoLinuxDV.h
+END
+videoMacOSX.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/avjit/!svn/ver/1/include/AR/sys/videoMacOSX.h
+END
+videoWin32DirectShow.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/avjit/!svn/ver/1/include/AR/sys/videoWin32DirectShow.h
+END
+videoLinux1394Cam.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/avjit/!svn/ver/1/include/AR/sys/videoLinux1394Cam.h
+END

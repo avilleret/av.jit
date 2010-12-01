@@ -1,0 +1,5 @@
+ARCHS = i386 ppc
+SKIP_INSTALL = NO
+COPY_PHASE_STRIP = YES
+FRAMEWORK_SEARCH_PATHS = $(inherited) "$(SRCROOT)/../../c74support/jit-includes" "$(DEVELOPER_DIR)/SDK/MaxSDK-5.1.1/examples/av.jit.iidc" "$(DEVELOPER_DIR)/SDK/MaxSDK-5.1.1/c74support/max-includes"
+LIBRARY_SEARCH_PATHS = $(PROJECT_DIR)/../../lib

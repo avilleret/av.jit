@@ -1,0 +1,14 @@
+<modify-entry
+   committed-rev="2"
+   committed-date="2010-11-26T10:44:41.118158Z"
+   name=""
+   last-author="avilleret"/>
+<delete-changelist
+   name=""/>
+<committed
+   name=""
+   revision="2"/>
+<modify-wcprop
+   name=""
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svnroot/avjit/!svn/ver/2/src"/>

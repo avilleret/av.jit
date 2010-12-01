@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/avjit/!svn/ver/1/include/dc1394
+END
+iso.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/avjit/!svn/ver/1/include/dc1394/iso.h
+END
+format7.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/avjit/!svn/ver/1/include/dc1394/format7.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/avjit/!svn/ver/1/include/dc1394/utils.h
+END
+control.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/avjit/!svn/ver/1/include/dc1394/control.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/avjit/!svn/ver/1/include/dc1394/log.h
+END
+capture.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/avjit/!svn/ver/1/include/dc1394/capture.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/avjit/!svn/ver/1/include/dc1394/types.h
+END
+register.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/avjit/!svn/ver/1/include/dc1394/register.h
+END
+video.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/avjit/!svn/ver/1/include/dc1394/video.h
+END
+dc1394.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/avjit/!svn/ver/1/include/dc1394/dc1394.h
+END
+conversions.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/avjit/!svn/ver/1/include/dc1394/conversions.h
+END
+camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/avjit/!svn/ver/1/include/dc1394/camera.h
+END
