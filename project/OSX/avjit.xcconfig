@@ -1,14 +1,3 @@
-// Xcode target configuration settings for the Max 5 SDK
-// Used as the basis for Xcode projects to build Max externals.
-//
-// Changes to the settings in this file will be applied to all SDK examples
-// To change settings for only one of the examples, override the settings using
-// Xcode's target inspector.
-//
-// by Timothy Place
-// Copyright © 2008, Cycling '74
-
-
 // Name & Version
 PRODUCT_NAME = $(PROJECT_NAME)
 PRODUCT_VERSION = 1.1

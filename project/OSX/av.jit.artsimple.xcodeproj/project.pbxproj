@@ -9,33 +9,31 @@
 /* Begin PBXBuildFile section */
 		22301F4A10D7BC6C00C1989F /* JitterAPI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22301F4910D7BC6C00C1989F /* JitterAPI.framework */; };
 		2FBBEADE08F335360078DB84 /* MaxAPI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54266BCE05E6E9780000000C /* MaxAPI.framework */; };
-		4360302E129F00D4002B9B68 /* avjit.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 4360302D129F00D4002B9B68 /* avjit.xcconfig */; };
-		43603035129F0130002B9B68 /* libAR.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4360302F129F0130002B9B68 /* libAR.a */; };
-		43603036129F0130002B9B68 /* libARgsub_lite.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 43603030129F0130002B9B68 /* libARgsub_lite.a */; };
-		43603037129F0130002B9B68 /* libARgsub.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 43603031129F0130002B9B68 /* libARgsub.a */; };
-		43603038129F0130002B9B68 /* libARgsubUtil.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 43603032129F0130002B9B68 /* libARgsubUtil.a */; };
-		43603039129F0130002B9B68 /* libARMulti.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 43603033129F0130002B9B68 /* libARMulti.a */; };
-		4360303A129F0130002B9B68 /* libARvideo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 43603034129F0130002B9B68 /* libARvideo.a */; };
-		4360303E129F0157002B9B68 /* art.jit.h in Headers */ = {isa = PBXBuildFile; fileRef = 4360303B129F0157002B9B68 /* art.jit.h */; };
-		4360303F129F0157002B9B68 /* art.jit.simple.c in Sources */ = {isa = PBXBuildFile; fileRef = 4360303C129F0157002B9B68 /* art.jit.simple.c */; };
-		43603040129F0157002B9B68 /* max.art.jit.simple.c in Sources */ = {isa = PBXBuildFile; fileRef = 4360303D129F0157002B9B68 /* max.art.jit.simple.c */; };
-		43603211129F0858002B9B68 /* avjit-target.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 43603210129F0858002B9B68 /* avjit-target.xcconfig */; };
+		4334D5C412A6841A00E586D3 /* libAR.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4334D5BE12A6841A00E586D3 /* libAR.a */; };
+		4334D5C512A6841B00E586D3 /* libARgsub_lite.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4334D5BF12A6841A00E586D3 /* libARgsub_lite.a */; };
+		4334D5C612A6841B00E586D3 /* libARgsub.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4334D5C012A6841A00E586D3 /* libARgsub.a */; };
+		4334D5C712A6841B00E586D3 /* libARgsubUtil.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4334D5C112A6841A00E586D3 /* libARgsubUtil.a */; };
+		4334D5C812A6841B00E586D3 /* libARMulti.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4334D5C212A6841A00E586D3 /* libARMulti.a */; };
+		4334D5C912A6841B00E586D3 /* libARvideo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4334D5C312A6841A00E586D3 /* libARvideo.a */; };
+		4334D5D512A6844600E586D3 /* art.jit.h in Headers */ = {isa = PBXBuildFile; fileRef = 4334D5D212A6844600E586D3 /* art.jit.h */; };
+		4334D5D612A6844600E586D3 /* art.jit.simple.c in Sources */ = {isa = PBXBuildFile; fileRef = 4334D5D312A6844600E586D3 /* art.jit.simple.c */; };
+		4334D5D712A6844600E586D3 /* max.art.jit.simple.c in Sources */ = {isa = PBXBuildFile; fileRef = 4334D5D412A6844600E586D3 /* max.art.jit.simple.c */; };
+		4334D5D912A6845400E586D3 /* avjit.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 4334D5D812A6845400E586D3 /* avjit.xcconfig */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		22301F4910D7BC6C00C1989F /* JitterAPI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JitterAPI.framework; path = "../../c74support/jit-includes/JitterAPI.framework"; sourceTree = SOURCE_ROOT; };
 		2FBBEAE508F335360078DB84 /* av.jit.artsimple.mxo */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = av.jit.artsimple.mxo; sourceTree = BUILT_PRODUCTS_DIR; };
-		4360302D129F00D4002B9B68 /* avjit.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = avjit.xcconfig; path = SDK/avjit/project/OSX/avjit.xcconfig; sourceTree = DEVELOPER_DIR; };
-		4360302F129F0130002B9B68 /* libAR.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libAR.a; path = SDK/avjit/lib/libAR.a; sourceTree = DEVELOPER_DIR; };
-		43603030129F0130002B9B68 /* libARgsub_lite.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libARgsub_lite.a; path = SDK/avjit/lib/libARgsub_lite.a; sourceTree = DEVELOPER_DIR; };
-		43603031129F0130002B9B68 /* libARgsub.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libARgsub.a; path = SDK/avjit/lib/libARgsub.a; sourceTree = DEVELOPER_DIR; };
-		43603032129F0130002B9B68 /* libARgsubUtil.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libARgsubUtil.a; path = SDK/avjit/lib/libARgsubUtil.a; sourceTree = DEVELOPER_DIR; };
-		43603033129F0130002B9B68 /* libARMulti.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libARMulti.a; path = SDK/avjit/lib/libARMulti.a; sourceTree = DEVELOPER_DIR; };
-		43603034129F0130002B9B68 /* libARvideo.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libARvideo.a; path = SDK/avjit/lib/libARvideo.a; sourceTree = DEVELOPER_DIR; };
-		4360303B129F0157002B9B68 /* art.jit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = art.jit.h; path = SDK/avjit/scr/ARToolkit/art.jit.h; sourceTree = DEVELOPER_DIR; };
-		4360303C129F0157002B9B68 /* art.jit.simple.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = art.jit.simple.c; path = SDK/avjit/scr/ARToolkit/art.jit.simple.c; sourceTree = DEVELOPER_DIR; };
-		4360303D129F0157002B9B68 /* max.art.jit.simple.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = max.art.jit.simple.c; path = SDK/avjit/scr/ARToolkit/max.art.jit.simple.c; sourceTree = DEVELOPER_DIR; };
-		43603210129F0858002B9B68 /* avjit-target.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = "avjit-target.xcconfig"; path = "SDK/avjit/project/OSX/avjit-target.xcconfig"; sourceTree = DEVELOPER_DIR; };
+		4334D5BE12A6841A00E586D3 /* libAR.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libAR.a; path = SDK/avjit/av.jit/lib/libAR.a; sourceTree = DEVELOPER_DIR; };
+		4334D5BF12A6841A00E586D3 /* libARgsub_lite.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libARgsub_lite.a; path = SDK/avjit/av.jit/lib/libARgsub_lite.a; sourceTree = DEVELOPER_DIR; };
+		4334D5C012A6841A00E586D3 /* libARgsub.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libARgsub.a; path = SDK/avjit/av.jit/lib/libARgsub.a; sourceTree = DEVELOPER_DIR; };
+		4334D5C112A6841A00E586D3 /* libARgsubUtil.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libARgsubUtil.a; path = SDK/avjit/av.jit/lib/libARgsubUtil.a; sourceTree = DEVELOPER_DIR; };
+		4334D5C212A6841A00E586D3 /* libARMulti.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libARMulti.a; path = SDK/avjit/av.jit/lib/libARMulti.a; sourceTree = DEVELOPER_DIR; };
+		4334D5C312A6841A00E586D3 /* libARvideo.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libARvideo.a; path = SDK/avjit/av.jit/lib/libARvideo.a; sourceTree = DEVELOPER_DIR; };
+		4334D5D212A6844600E586D3 /* art.jit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = art.jit.h; path = SDK/avjit/av.jit/src/ARToolkit/art.jit.h; sourceTree = DEVELOPER_DIR; };
+		4334D5D312A6844600E586D3 /* art.jit.simple.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = art.jit.simple.c; path = SDK/avjit/av.jit/src/ARToolkit/art.jit.simple.c; sourceTree = DEVELOPER_DIR; };
+		4334D5D412A6844600E586D3 /* max.art.jit.simple.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = max.art.jit.simple.c; path = SDK/avjit/av.jit/src/ARToolkit/max.art.jit.simple.c; sourceTree = DEVELOPER_DIR; };
+		4334D5D812A6845400E586D3 /* avjit.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = avjit.xcconfig; path = SDK/avjit/av.jit/project/OSX/avjit.xcconfig; sourceTree = DEVELOPER_DIR; };
 		54266BCE05E6E9780000000C /* MaxAPI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MaxAPI.framework; path = "../../c74support/max-includes/MaxAPI.framework"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
@@ -46,12 +44,12 @@
 			files = (
 				2FBBEADE08F335360078DB84 /* MaxAPI.framework in Frameworks */,
 				22301F4A10D7BC6C00C1989F /* JitterAPI.framework in Frameworks */,
-				43603035129F0130002B9B68 /* libAR.a in Frameworks */,
-				43603036129F0130002B9B68 /* libARgsub_lite.a in Frameworks */,
-				43603037129F0130002B9B68 /* libARgsub.a in Frameworks */,
-				43603038129F0130002B9B68 /* libARgsubUtil.a in Frameworks */,
-				43603039129F0130002B9B68 /* libARMulti.a in Frameworks */,
-				4360303A129F0130002B9B68 /* libARvideo.a in Frameworks */,
+				4334D5C412A6841A00E586D3 /* libAR.a in Frameworks */,
+				4334D5C512A6841B00E586D3 /* libARgsub_lite.a in Frameworks */,
+				4334D5C612A6841B00E586D3 /* libARgsub.a in Frameworks */,
+				4334D5C712A6841B00E586D3 /* libARgsubUtil.a in Frameworks */,
+				4334D5C812A6841B00E586D3 /* libARMulti.a in Frameworks */,
+				4334D5C912A6841B00E586D3 /* libARvideo.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,8 +59,7 @@
 		089C166AFE841209C02AAC07 /* iterator */ = {
 			isa = PBXGroup;
 			children = (
-				43603210129F0858002B9B68 /* avjit-target.xcconfig */,
-				4360302D129F00D4002B9B68 /* avjit.xcconfig */,
+				4334D5D812A6845400E586D3 /* avjit.xcconfig */,
 				08FB77ADFE841716C02AAC07 /* Source */,
 				089C1671FE841209C02AAC07 /* External Frameworks and Libraries */,
 				19C28FB4FE9D528D11CA2CBB /* Products */,
@@ -73,12 +70,12 @@
 		089C1671FE841209C02AAC07 /* External Frameworks and Libraries */ = {
 			isa = PBXGroup;
 			children = (
-				4360302F129F0130002B9B68 /* libAR.a */,
-				43603030129F0130002B9B68 /* libARgsub_lite.a */,
-				43603031129F0130002B9B68 /* libARgsub.a */,
-				43603032129F0130002B9B68 /* libARgsubUtil.a */,
-				43603033129F0130002B9B68 /* libARMulti.a */,
-				43603034129F0130002B9B68 /* libARvideo.a */,
+				4334D5BE12A6841A00E586D3 /* libAR.a */,
+				4334D5BF12A6841A00E586D3 /* libARgsub_lite.a */,
+				4334D5C012A6841A00E586D3 /* libARgsub.a */,
+				4334D5C112A6841A00E586D3 /* libARgsubUtil.a */,
+				4334D5C212A6841A00E586D3 /* libARMulti.a */,
+				4334D5C312A6841A00E586D3 /* libARvideo.a */,
 				54266BCE05E6E9780000000C /* MaxAPI.framework */,
 				22301F4910D7BC6C00C1989F /* JitterAPI.framework */,
 			);
@@ -88,9 +85,9 @@
 		08FB77ADFE841716C02AAC07 /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				4360303B129F0157002B9B68 /* art.jit.h */,
-				4360303C129F0157002B9B68 /* art.jit.simple.c */,
-				4360303D129F0157002B9B68 /* max.art.jit.simple.c */,
+				4334D5D212A6844600E586D3 /* art.jit.h */,
+				4334D5D312A6844600E586D3 /* art.jit.simple.c */,
+				4334D5D412A6844600E586D3 /* max.art.jit.simple.c */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -110,7 +107,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4360303E129F0157002B9B68 /* art.jit.h in Headers */,
+				4334D5D512A6844600E586D3 /* art.jit.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -166,8 +163,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4360302E129F00D4002B9B68 /* avjit.xcconfig in Resources */,
-				43603211129F0858002B9B68 /* avjit-target.xcconfig in Resources */,
+				4334D5D912A6845400E586D3 /* avjit.xcconfig in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -204,8 +200,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4360303F129F0157002B9B68 /* art.jit.simple.c in Sources */,
-				43603040129F0157002B9B68 /* max.art.jit.simple.c in Sources */,
+				4334D5D612A6844600E586D3 /* art.jit.simple.c in Sources */,
+				4334D5D712A6844600E586D3 /* max.art.jit.simple.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -214,29 +210,37 @@
 /* Begin XCBuildConfiguration section */
 		2FBBEAD008F335010078DB84 /* Development */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4360302D129F00D4002B9B68 /* avjit.xcconfig */;
+			baseConfigurationReference = 4334D5D812A6845400E586D3 /* avjit.xcconfig */;
 			buildSettings = {
 			};
 			name = Development;
 		};
 		2FBBEAD108F335010078DB84 /* Deployment */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4360302D129F00D4002B9B68 /* avjit.xcconfig */;
+			baseConfigurationReference = 4334D5D812A6845400E586D3 /* avjit.xcconfig */;
 			buildSettings = {
 			};
 			name = Deployment;
 		};
 		2FBBEAE108F335360078DB84 /* Development */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 43603210129F0858002B9B68 /* avjit-target.xcconfig */;
+			baseConfigurationReference = 4334D5D812A6845400E586D3 /* avjit.xcconfig */;
 			buildSettings = {
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(DEVELOPER_DIR)/SDK/avjit/av.jit/lib\"",
+				);
 			};
 			name = Development;
 		};
 		2FBBEAE208F335360078DB84 /* Deployment */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 43603210129F0858002B9B68 /* avjit-target.xcconfig */;
+			baseConfigurationReference = 4334D5D812A6845400E586D3 /* avjit.xcconfig */;
 			buildSettings = {
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(DEVELOPER_DIR)/SDK/avjit/av.jit/lib\"",
+				);
 			};
 			name = Deployment;
 		};

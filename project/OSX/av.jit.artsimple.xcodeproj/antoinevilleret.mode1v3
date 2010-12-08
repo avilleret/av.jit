@@ -208,8 +208,6 @@
 		<dict>
 			<key>ChosenToolbarItems</key>
 			<array>
-				<string>XCToolbarPerspectiveControl</string>
-				<string>NSToolbarSeparatorItem</string>
 				<string>active-combo-popup</string>
 				<string>action</string>
 				<string>NSToolbarFlexibleSpaceItem</string>
@@ -275,12 +273,12 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>19</integer>
 									<integer>18</integer>
+									<integer>17</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {282, 620}}</string>
+							<string>{{0, 0}, {282, 627}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -292,14 +290,14 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {299, 638}}</string>
+						<string>{{0, 0}, {299, 645}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>MainColumn</string>
 							<real>282</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>14 99 857 679 0 0 1280 778 </string>
+						<string>14 92 1200 686 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -317,7 +315,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>art.jit.simple.c</string>
+								<string>avjit.xcconfig</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -325,11 +323,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>art.jit.simple.c</string>
+										<string>avjit.xcconfig</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>4360326C129F0AAE002B9B68</string>
+										<string>4334D7C312A7EE8500E586D3</string>
 										<key>history</key>
 										<array>
 											<string>43CDC7561238554800AC833A</string>
@@ -338,7 +336,8 @@
 											<string>432CEAD7123EE2A80022B8BF</string>
 											<string>43274CA71240F74C005623E3</string>
 											<string>4365EE0C124EAF1800901756</string>
-											<string>43603226129F0929002B9B68</string>
+											<string>4334D7AF12A69A9B00E586D3</string>
+											<string>4334D7B012A69A9B00E586D3</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -350,14 +349,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {553, 487}}</string>
+								<string>{{0, 0}, {896, 484}}</string>
 								<key>RubberWindowFrame</key>
-								<string>14 99 857 679 0 0 1280 778 </string>
+								<string>14 92 1200 686 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>487pt</string>
+							<string>484pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -370,18 +369,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 492}, {553, 146}}</string>
+								<string>{{0, 489}, {896, 156}}</string>
 								<key>RubberWindowFrame</key>
-								<string>14 99 857 679 0 0 1280 778 </string>
+								<string>14 92 1200 686 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>146pt</string>
+							<string>156pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>553pt</string>
+					<string>896pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -396,9 +395,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>4360323C129F0935002B9B68</string>
+				<string>4334D7A612A69A8000E586D3</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>4360323D129F0935002B9B68</string>
+				<string>4334D7A712A69A8000E586D3</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -539,10 +538,10 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>4326E11911172BDA00EF74F0</string>
-		<string>/Developer/SDK/avjit/project/OSX/av.jit.artsimple.xcodeproj</string>
+		<string>/Developer/SDK/avjit/av.jit/project/OSX/av.jit.artsimple.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>14 99 857 679 0 0 1280 778 </string>
+	<string>14 92 1200 686 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -619,7 +618,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>4326E11911172BDA00EF74F0</string>
-				<string>4360323E129F0935002B9B68</string>
+				<string>4334D7A812A69A8000E586D3</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
