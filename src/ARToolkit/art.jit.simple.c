@@ -38,6 +38,7 @@ typedef struct _art_jit_simple
 
 void *_art_jit_simple_class;
 
+// prototypes of functions
 t_art_jit_simple	*art_jit_simple_new(void);
 void				art_jit_simple_free(t_art_jit_simple *x);
 t_jit_err			art_jit_simple_matrix_calc(t_art_jit_simple *x, void *inputs, void *outputs);
@@ -153,6 +154,7 @@ t_jit_err art_jit_simple_matrix_calc(t_art_jit_simple *x, void *inputs, void *ou
 		}		
 		
 		if (x->size[0]!=in_minfo.dim[0] || x->size[1]!=in_minfo.dim[1]) {
+			// image size has changed
 			x->size[0] = in_minfo.dim[0];
 			x->size[1] = in_minfo.dim[1];
 			if(art_jit_simple_settings(x)) { err=JIT_ERR_GENERIC; goto out;}
@@ -163,6 +165,8 @@ t_jit_err art_jit_simple_matrix_calc(t_art_jit_simple *x, void *inputs, void *ou
 			jit_error_sym((t_object *)x,(t_symbol *)"Can't detect marker");
 			return -1;
 		}
+		
+		//post("marker : %d", marker_num);
 		
 		// prepare output matrix
 		out_minfo.dim[0] = marker_num;
@@ -405,7 +409,7 @@ int art_jit_simple_settings(t_art_jit_simple *x)
 	}
 	arParamChangeSize( &wparam, x->size[0], x->size[1], &x->cparam );
 	arInitCparam( &x->cparam );
-	//printf("*** Camera Parameter ***\n");
-	//arParamDisp( &x->cparam );
+	printf("*** Camera Parameter ***\n");
+	arParamDisp( &x->cparam );
 	return 0;
 }

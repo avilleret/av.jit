@@ -1,14 +1,3 @@
-// Xcode target configuration settings for the Max 5 SDK
-// Used as the basis for Xcode projects to build Max externals.
-//
-// Changes to the settings in this file will be applied to all SDK examples
-// To change settings for only one of the examples, override the settings using
-// Xcode's target inspector.
-//
-// by Timothy Place
-// Copyright © 2008, Cycling '74
-
-
 // Name & Version
 PRODUCT_NAME = $(PROJECT_NAME)
 PRODUCT_VERSION = 1.1
@@ -16,14 +5,18 @@ PRODUCT_VERSION = 1.1
 // Architecture
 VALID_ARCHS = $(NATIVE_ARCH) 
 ONLY_ACTIVE_ARCH = YES
+ARCHS = i386 ppc
+SKIP_INSTALL = NO
+COPY_PHASE_STRIP = YES
 
 // Paths
 C74SUPPORT = $(SRCROOT)/../../c74support
 HEADER_SEARCH_PATHS = /Developer/Headers/FlatCarbon "$(C74SUPPORT)/max-includes" "$(C74SUPPORT)/msp-includes" "$(C74SUPPORT)/jit-includes" $(PROJECT_DIR)/../../include/**
 FRAMEWORK_SEARCH_PATHS = "$(C74SUPPORT)/max-includes" "$(C74SUPPORT)/jit-includes" $(PROJECT_DIR)/../../framework
-LIBRARY_SEARCH_PATHS = $(PROJECT_DIR)/../../lib/**
+LIBRARY_SEARCH_PATHS = $(PROJECT_DIR)/../../lib
+
 CONFIGURATION_TEMP_DIR = $(PROJECT_DIR)/../../build/OSX/$(PRODUCT_NAME)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
-SYMROOT = $(PROJECT_DIR)/../../../build/OSX/$(PRODUCT_NAME)
+SYMROOT = $(PROJECT_DIR)/../../build/OSX/$(PRODUCT_NAME)
 DSTROOT = $(SRCROOT)/../../externals/OSX
 // (This next path is relative to DSTROOT)
 INSTALL_PATH = /

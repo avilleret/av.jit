@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		43C1C77212A66185006529D5 /* avjit.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 43C1C77012A66185006529D5 /* avjit.xcconfig */; };
+		4300841916E6B05D006E0886 /* avjit.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 4300841816E6B05D006E0886 /* avjit.xcconfig */; };
 		43C1C7B512A66216006529D5 /* jit.iidc.c in Sources */ = {isa = PBXBuildFile; fileRef = 43C1C7B312A66216006529D5 /* jit.iidc.c */; };
 		43C1C7B612A66216006529D5 /* max.jit.iidc.c in Sources */ = {isa = PBXBuildFile; fileRef = 43C1C7B412A66216006529D5 /* max.jit.iidc.c */; };
 		B81901D01294583C00A59F3D /* JitterAPI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B81901CF1294583C00A59F3D /* JitterAPI.framework */; };
@@ -16,10 +16,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2FBBEAE508F335360078DB84 /* av.jit.iidc.mxo */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = av.jit.iidc.mxo; sourceTree = BUILT_PRODUCTS_DIR; };
-		43C1C77012A66185006529D5 /* avjit.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = avjit.xcconfig; path = SDK/avjit/avjit/project/OSX/avjit.xcconfig; sourceTree = DEVELOPER_DIR; };
-		43C1C7B312A66216006529D5 /* jit.iidc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = jit.iidc.c; path = SDK/avjit/avjit/src/av.jit.iidc/jit.iidc.c; sourceTree = DEVELOPER_DIR; };
-		43C1C7B412A66216006529D5 /* max.jit.iidc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = max.jit.iidc.c; path = SDK/avjit/avjit/src/av.jit.iidc/max.jit.iidc.c; sourceTree = DEVELOPER_DIR; };
+		4300841816E6B05D006E0886 /* avjit.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = avjit.xcconfig; path = SDK/avjit/av.jit/project/OSX/avjit.xcconfig; sourceTree = DEVELOPER_DIR; };
+		4300843A16E6B12F006E0886 /* av.jit.iidc.mxo */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = av.jit.iidc.mxo; sourceTree = BUILT_PRODUCTS_DIR; };
+		43C1C7B312A66216006529D5 /* jit.iidc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = jit.iidc.c; path = SDK/avjit/av.jit/src/av.jit.iidc/jit.iidc.c; sourceTree = DEVELOPER_DIR; };
+		43C1C7B412A66216006529D5 /* max.jit.iidc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = max.jit.iidc.c; path = SDK/avjit/av.jit/src/av.jit.iidc/max.jit.iidc.c; sourceTree = DEVELOPER_DIR; };
 		B81901CF1294583C00A59F3D /* JitterAPI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JitterAPI.framework; path = "SDK/MaxSDK-5.1.1/c74support/jit-includes/JitterAPI.framework"; sourceTree = DEVELOPER_DIR; };
 		B81901D31294584B00A59F3D /* MaxAPI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MaxAPI.framework; path = "SDK/MaxSDK-5.1.1/c74support/max-includes/MaxAPI.framework"; sourceTree = DEVELOPER_DIR; };
 		B8A1976F129AD14500E94187 /* dc1394.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = dc1394.framework; path = "SDK/MaxSDK-5.1.1/examples/av.jit.iidc/dc1394.framework"; sourceTree = DEVELOPER_DIR; };
@@ -30,9 +30,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8A19770129AD14500E94187 /* dc1394.framework in Frameworks */,
 				B81901D01294583C00A59F3D /* JitterAPI.framework in Frameworks */,
 				B81901D41294584B00A59F3D /* MaxAPI.framework in Frameworks */,
-				B8A19770129AD14500E94187 /* dc1394.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,7 +42,7 @@
 		089C166AFE841209C02AAC07 /* iterator */ = {
 			isa = PBXGroup;
 			children = (
-				43C1C77012A66185006529D5 /* avjit.xcconfig */,
+				4300841816E6B05D006E0886 /* avjit.xcconfig */,
 				43D3CFE7125A170300130E2F /* Frameworks & Libraries */,
 				08FB77ADFE841716C02AAC07 /* Source */,
 				19C28FB4FE9D528D11CA2CBB /* Products */,
@@ -62,7 +62,7 @@
 		19C28FB4FE9D528D11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2FBBEAE508F335360078DB84 /* av.jit.iidc.mxo */,
+				4300843A16E6B12F006E0886 /* av.jit.iidc.mxo */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -107,7 +107,7 @@
 			);
 			name = "max-external";
 			productName = iterator;
-			productReference = 2FBBEAE508F335360078DB84 /* av.jit.iidc.mxo */;
+			productReference = 4300843A16E6B12F006E0886 /* av.jit.iidc.mxo */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
@@ -139,7 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				43C1C77212A66185006529D5 /* avjit.xcconfig in Resources */,
+				4300841916E6B05D006E0886 /* avjit.xcconfig in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -187,7 +187,7 @@
 /* Begin XCBuildConfiguration section */
 		2FBBEAD008F335010078DB84 /* Development */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 43C1C77012A66185006529D5 /* avjit.xcconfig */;
+			baseConfigurationReference = 4300841816E6B05D006E0886 /* avjit.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
@@ -216,7 +216,7 @@
 		};
 		4374C8091173850300B36EF5 /* Deployment */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 43C1C77012A66185006529D5 /* avjit.xcconfig */;
+			baseConfigurationReference = 4300841816E6B05D006E0886 /* avjit.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				GCC_ENABLE_SYMBOL_SEPARATION = YES;
