@@ -79,11 +79,11 @@ typedef struct _jit_iidc_flags
 typedef struct _jit_iidc 
 {
 	t_object	ob;
-	t_symbol	feature_table[DC1394_FEATURE_NUM];				// feature lookup table
-	t_symbol	video_mode_table[DC1394_VIDEO_MODE_NUM];		// video mode lookup table
-	t_symbol	feature_mode_table[DC1394_FEATURE_MODE_NUM];	// feature mode lookup table
-	t_symbol	color_coding_table[DC1394_COLOR_CODING_NUM];	// color coding lookup table
-	t_symbol	framerate_table[DC1394_FRAMERATE_NUM];			// framerate lookup table
+	t_symbol	feature_table[DC1394_FEATURE_NUM*sizeof(t_symbol)];				// feature lookup table
+	t_symbol	video_mode_table[DC1394_VIDEO_MODE_NUM*sizeof(t_symbol)];		// video mode lookup table
+	t_symbol	feature_mode_table[DC1394_FEATURE_MODE_NUM*sizeof(t_symbol)];	// feature mode lookup table
+	t_symbol	color_coding_table[DC1394_COLOR_CODING_NUM*sizeof(t_symbol)];	// color coding lookup table
+	t_symbol	framerate_table[DC1394_FRAMERATE_NUM*sizeof(t_symbol)];			// framerate lookup table
 	t_jit_iidc_flags		flags;								// few flags...
 	
 	// iidc attributes
@@ -95,7 +95,7 @@ typedef struct _jit_iidc
 	dc1394featureset_t		features;			// list of features
     dc1394framerates_t		framerates;			// list of supported framerates
     
-	t_atom					featurelist[DC1394_FEATURE_NUM];
+	t_atom					featurelist[DC1394_FEATURE_NUM*sizeof(t_atom)];
 	long					featurelist_size;
 	
 	t_symbol				framerate_sym;		// name of the current framerate
